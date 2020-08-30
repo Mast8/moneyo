@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/moneyo/static/css/main.fa5317a7.chunk.css",
+    "main.js": "/moneyo/static/js/main.7ee6786e.chunk.js",
+    "main.js.map": "/moneyo/static/js/main.7ee6786e.chunk.js.map",
+    "runtime-main.js": "/moneyo/static/js/runtime-main.7c30b92c.js",
+    "runtime-main.js.map": "/moneyo/static/js/runtime-main.7c30b92c.js.map",
+    "static/js/2.168a5997.chunk.js": "/moneyo/static/js/2.168a5997.chunk.js",
+    "static/js/2.168a5997.chunk.js.map": "/moneyo/static/js/2.168a5997.chunk.js.map",
+    "index.html": "/moneyo/index.html",
+    "precache-manifest.8c8ccd47117478da9f009a71285aa4f7.js": "/moneyo/precache-manifest.8c8ccd47117478da9f009a71285aa4f7.js",
+    "service-worker.js": "/moneyo/service-worker.js",
+    "static/css/main.fa5317a7.chunk.css.map": "/moneyo/static/css/main.fa5317a7.chunk.css.map",
+    "static/js/2.168a5997.chunk.js.LICENSE.txt": "/moneyo/static/js/2.168a5997.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c30b92c.js",
+    "static/js/2.168a5997.chunk.js",
+    "static/css/main.fa5317a7.chunk.css",
+    "static/js/main.7ee6786e.chunk.js"
+  ]
+}
