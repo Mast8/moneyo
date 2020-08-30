@@ -1,6 +1,4 @@
-form {
-    width: 40%;
-}
+
 
 input[type='text'],
 input[type='number'] {
@@ -39,4 +37,5 @@ input[type='number'] {
 form {
     justify-content: center;
     align-items: center;
+    width: 40%;
 }

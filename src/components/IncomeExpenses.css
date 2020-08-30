@@ -32,6 +32,9 @@
     color: #c0392b;
   }
   
+  .income {
+    padding-right: 1rem;
+  }
   /* .inc-exp-container > div:first-of-type {
     border-right: 1px solid #dedede;
   } */
