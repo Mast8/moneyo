@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7125405459a5f36584422446b94e52a3",
+    "revision": "752ab077ff15ec88299c2b719a610c6f",
     "url": "/moneyo/index.html"
   },
   {
-    "revision": "430dc8c0a91cc58ec608",
-    "url": "/moneyo/static/css/main.fa5317a7.chunk.css"
+    "revision": "575e1d88b3af757473d5",
+    "url": "/moneyo/static/css/main.b26611af.chunk.css"
   },
   {
     "revision": "3bf11c528324877be9f1",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moneyo/static/js/2.168a5997.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "430dc8c0a91cc58ec608",
-    "url": "/moneyo/static/js/main.7ee6786e.chunk.js"
+    "revision": "575e1d88b3af757473d5",
+    "url": "/moneyo/static/js/main.cc30841d.chunk.js"
   },
   {
     "revision": "8a3cf647afb36f4b82b3",
