@@ -31,8 +31,8 @@ export const AddTransaction = () => {
 
 
   const clearFields =() => {
-    setText("");
-    setAmount("");
+    setText(" ");
+    setAmount(0);
   }
 
   return (
