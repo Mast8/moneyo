@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/moneyo/static/css/main.b26611af.chunk.css",
-    "main.js": "/moneyo/static/js/main.cc30841d.chunk.js",
-    "main.js.map": "/moneyo/static/js/main.cc30841d.chunk.js.map",
+    "main.css": "/moneyo/static/css/main.96500e31.chunk.css",
+    "main.js": "/moneyo/static/js/main.08924e8f.chunk.js",
+    "main.js.map": "/moneyo/static/js/main.08924e8f.chunk.js.map",
     "runtime-main.js": "/moneyo/static/js/runtime-main.7c30b92c.js",
     "runtime-main.js.map": "/moneyo/static/js/runtime-main.7c30b92c.js.map",
-    "static/js/2.168a5997.chunk.js": "/moneyo/static/js/2.168a5997.chunk.js",
-    "static/js/2.168a5997.chunk.js.map": "/moneyo/static/js/2.168a5997.chunk.js.map",
+    "static/js/2.abb637fc.chunk.js": "/moneyo/static/js/2.abb637fc.chunk.js",
+    "static/js/2.abb637fc.chunk.js.map": "/moneyo/static/js/2.abb637fc.chunk.js.map",
     "index.html": "/moneyo/index.html",
-    "precache-manifest.fc30ae9d639b388d451f3ae870a9cab7.js": "/moneyo/precache-manifest.fc30ae9d639b388d451f3ae870a9cab7.js",
+    "precache-manifest.3b9728b7d7f2ff9352852417f21f5499.js": "/moneyo/precache-manifest.3b9728b7d7f2ff9352852417f21f5499.js",
     "service-worker.js": "/moneyo/service-worker.js",
-    "static/css/main.b26611af.chunk.css.map": "/moneyo/static/css/main.b26611af.chunk.css.map",
-    "static/js/2.168a5997.chunk.js.LICENSE.txt": "/moneyo/static/js/2.168a5997.chunk.js.LICENSE.txt"
+    "static/css/main.96500e31.chunk.css.map": "/moneyo/static/css/main.96500e31.chunk.css.map",
+    "static/js/2.abb637fc.chunk.js.LICENSE.txt": "/moneyo/static/js/2.abb637fc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7c30b92c.js",
-    "static/js/2.168a5997.chunk.js",
-    "static/css/main.b26611af.chunk.css",
-    "static/js/main.cc30841d.chunk.js"
+    "static/js/2.abb637fc.chunk.js",
+    "static/css/main.96500e31.chunk.css",
+    "static/js/main.08924e8f.chunk.js"
   ]
 }

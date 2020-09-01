@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/moneyo/precache-manifest.fc30ae9d639b388d451f3ae870a9cab7.js"
+  "/moneyo/precache-manifest.3b9728b7d7f2ff9352852417f21f5499.js"
 );
 
 self.addEventListener('message', (event) => {
