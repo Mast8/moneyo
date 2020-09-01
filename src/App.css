@@ -76,18 +76,22 @@ label {
   .container {
     margin: 0 5rem;
     width: 500px;
-    /* display: flex; */
     align-items: center;
     flex-direction: column;
   }
+
   .balance {
     align-items: center;
     width: 70%;
   }
+
   form {
     width: 70%;
   }
 
+  .delete-btn {
+    opacity: 1;
+  }
 }
 
 @media (min-width: 600px) {
